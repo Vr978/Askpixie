@@ -65,9 +65,11 @@ reflex init
 ```
 5. Add Your Gemini-Api Key
 in terminal using
+'''
 export API_KEY_G='YOUR_API_KEY'
+'''
 
-6. Run the app
+7. Run the app
 ```bash
 reflex run
 ```
