@@ -38,7 +38,7 @@ The Current Project uses Gemini-pro for text generation and Gemini-pro-vision fo
 ## Current Progress
 | YouTube Video |
 |----------------|
-|<a href="#"><img src="#"/></a>
+|<a href="https://youtu.be/OHpinCp06x4"><img src="./assets/UI1.png"/></a>
 
 
 ## Getting Started
