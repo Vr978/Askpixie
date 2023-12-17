@@ -32,7 +32,8 @@ AskPixie's Image Analysis & Text Output, powered by Gemini Pro Vision, interpret
 The Current Project uses Gemini-pro for text generation and Gemini-pro-vision for Image Analysis using the respected APIs.
 
 ## UI Design
-![UI image](./Askpixie/assets/UI.png)
+![UI image](./assets/UI1.png)
+![UI image](./assets/UI2.png)
 
 ## Current Progress
 | YouTube Video |
