@@ -52,25 +52,20 @@ git clone https://github.com/Vr978/Askpixie.git
 ```bash
 python -m venv venv
 source venv/bin/activate
-```
-
-3. Navigate to the project directory
-```bash
-cd imageai
 ``` 
 
-4. Install the dependencies
+3. Install the dependencies
 ```bash
 pip install -r ./requirements.txt
 reflex init
 ```
-5. Add Your Gemini-Api Key
+4. Add Your Gemini-Api Key
 in terminal using
 ```bash
 export API_KEY_G='YOUR_API_KEY'
 ```
 
-7. Run the app
+5. Run the app
 ```bash
 reflex run --loglevel debug
 ```
