@@ -61,7 +61,7 @@ cd imageai
 
 4. Install the dependencies
 ```bash
-pip install -r {path to requirements.txt}
+pip install -r ./requirements.txt
 reflex init
 ```
 5. Add Your Gemini-Api Key
@@ -72,7 +72,7 @@ export API_KEY_G='YOUR_API_KEY'
 
 7. Run the app
 ```bash
-reflex run
+reflex run --loglevel debug
 ```
 Note : Must have Gemini API key to run the app, you can create [here](https://ai.google.dev/).
 
